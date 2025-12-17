@@ -2,6 +2,7 @@
 
 A Python GUI application for playing chess using Descriptive Notation. This application provides a visual chess board interface where you can input moves using traditional Descriptive Notation.
 
+<img width="1080" height="791" alt="image" src="https://github.com/user-attachments/assets/75b6c064-f7a6-4cd7-90cb-411aca84ed7d" />
 
 
 
